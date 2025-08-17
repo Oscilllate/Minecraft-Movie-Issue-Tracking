@@ -1,5 +1,9 @@
 # Minecraft-Movie
 
+## Files
+[Planet Minecraft](https://www.planetminecraft.com/mod/the-minecraft-movie-6704286/)\
+Modrinth `none`\
+CurseForge `none`
 ## FORMATS
 DD/MM/YYYY
 
