@@ -1,5 +1,4 @@
-# Minecraft-Movie-Issue-Tracking
-ISSUE TRACKING
+# Minecraft-Movie
 
 ## FORMATS
 DD/MM/YYYY
