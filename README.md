@@ -3,7 +3,7 @@
 ## Files
 [Planet Minecraft](https://www.planetminecraft.com/mod/the-minecraft-movie-6704286/)\
 Modrinth `none`\
-CurseForge `none`
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mc-movie)
 ## FORMATS
 DD/MM/YYYY
 
