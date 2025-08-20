@@ -1,0 +1,91 @@
+#body {
+    background-color: grey;
+    color:white;
+    text-align:center;
+}
+
+.header {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:x-large;
+    text-shadow:
+    1px 0 white,
+   -1px 0 white,
+    0 1px white,
+}
+
+@font-face {
+  font-family: 'Minecraftia';
+  src: url('fonts/minecraftia.woff2') format('woff2'),
+       url('fonts/minecraftia.woff') format('woff');
+}
+
+.headingTwo {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:x-large;
+    color:aliceblue;
+}
+
+.text {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#back {
+    background-color: darkgrey;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-family: 'Minecraftia', sans-serif;
+    font-size: large;
+    cursor: pointer;
+}
+
+.rows {
+    padding-left:10px;
+    padding-right:10px;
+    text-align: center;
+}
+
+
+
+.downloadButton {
+    background-color: rgb(19, 172, 19);
+    color: white;
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:100%;
+    cursor: pointer;
+}
+
+#fileType {
+    background-color: rgb(19, 172, 19);
+    color: white;
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+    font-size:medium;
+}
+
+#copyright {
+    text-align: center;
+    font-size: small;
+    font-family:sans-serif;
+}
+
+table {
+      border-collapse: collapse;
+      width: 400px;
+      margin: 2rem auto;
+}
+th, td {
+      border: 0px solid #ccc;
+      padding: 8px;
+      text-align: center; /* centers inline content like text and images */
+}
+
+.highlight {
+    color: rgb(23, 107, 58);
+}
+
+.highlightPurple {
+    color: rgb(128, 0, 128);
+}
